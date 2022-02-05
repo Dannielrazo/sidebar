@@ -1,0 +1,2 @@
+# sidebar
+Componente Sidebar personalizable
